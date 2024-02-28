@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @hazardous-sun
-- 👀 I’m interested in Machine Learning, ERP and Bash scripts in general.
-- 🌱 I’m currently focusing on learning Python, Java and C.
+- 👋 Hi, I’m Johannes
+- 👀 I’m interested in Machine Learning, ERP, Bash, alghoritms and data structures.
+- 🌱 I’m currently focusing on learning Python, Java and Rust.
 - 💞️ I’m looking to collaborate on public repositories.
 
 <!---
