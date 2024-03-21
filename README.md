@@ -1,4 +1,11 @@
-<p align="left">- 👋 Hey there! I'm Johannes.<br>- 👀 Passionate about ERP, automation, algorithms, data structures, low-level programming, and the magical realm where math meets computing.<br>- 🌱 Currently immersed in the languages of Rust, C, Python, and Java to expand my coding horizons.<br>- 💞️ Open to collaborations on public repositories—let's build something awesome together!<br>- 🖥️ Proudly navigating the digital landscape with Linux as my daily driver.</p>
+<ul>
+  <li> 👋 Hey there! I'm Johannes.</li>
+  <li> 👀 Passionate about ERP, automation, algorithms, data structures, low-level programming, and the magical realm where math meets computing.</li>
+  <li> 🌱 Currently immersed in the languages of Rust, C, Python, and Java to expand my coding horizons.</li>
+  <li>️ 💞️ Open to collaborations on public repositories—let's build something awesome together!</li>
+  <li>️ 🖥️ Proudly navigating the digital landscape with Linux as my daily driver.</li>
+</ul>
+
 
 ###
 
