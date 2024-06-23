@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img src="https://img.shields.io/badge/NixOS-5277C3?logo=nixos&logoColor=white&style=for-the-badge" height="40" alt="nixos logo"  />
 </div>
 
 ###
