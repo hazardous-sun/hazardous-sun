@@ -12,7 +12,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hazardous-sun"  />
+  <img src="https://komarev.com/ghpvc/?username=hazardous-sun&color=yellow"  />
 </div>
 
 ## I mainly code with
