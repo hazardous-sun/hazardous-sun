@@ -2,7 +2,7 @@
 
 <ul>
   <li> 👀 Passionate about automation, algorithms, data structures, low-level programming, and the magical realm where math meets computing.</li>
-  <li> 🌱 Currently immersed in the languages of Rust, Go Python and Java to expand my coding horizons.</li>
+  <li> 🌱 Currently immersing myself in machine learning and LLMs.</li>
   <li>️ 💞️ Open to collaborations on public repositories—let's build something awesome together!</li>
   <li>️ 🖥️ Proudly navigating the digital landscape with Linux as my daily driver.</li>
 </ul>
@@ -15,23 +15,23 @@
   <img src="https://komarev.com/ghpvc/?username=hazardous-sun&color=yellow"  />
 </div>
 
-## I mainly code with
+## 🤖 I mainly code with
 
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/go/00ADD8" height="40" alt="go logo" href="https://go.dev/" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo" href="https://go.dev/" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/rust/000000" height="40" alt="rust logo"  />
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=python" height="40" alt="python logo"  />
 </div>
 
 ###
 
-## How to reach out to me
+## 📬 How to reach out to me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/adam-johannes-84a97b1ba/" target="_blank">
