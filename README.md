@@ -9,7 +9,6 @@
 <ul>
   <li> 👀 Passionate about automation, algorithms, data structures, low-level programming, and the magical realm where math meets computing.</li>
   <li>️ 💞️ Open to collaborations on public repositories—let's build something awesome together!</li>
-  <li>️ 🖥️ Proudly navigating the digital landscape with Linux as my daily driver.</li>
 </ul>
 
 <div align="center">
@@ -30,6 +29,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
 </div>
+
+## ⚡ Running on
+
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
+<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
 
 ## 📬 How to reach out to me
 
