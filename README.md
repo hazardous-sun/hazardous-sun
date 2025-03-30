@@ -8,7 +8,7 @@
 
 <ul>
   <li> 👀 Passionate about automation, algorithms, data structures, low-level programming, and the magical realm where math meets computing.</li>
-  <li>️ 💞️ Open to collaborations on public repositories—let's build something awesome together!</li>
+  <li>️ 🤝 Open to collaborations on public repositories—let's build something awesome together!</li>
 </ul>
 
 <div align="center">
