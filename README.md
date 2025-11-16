@@ -37,7 +37,7 @@
   <a href="https://www.linkedin.com/in/adam-johannes-84a97b1ba/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href=""mailto:contact@adamjohannes.com?subject=Hi Johannes&cc=&bcc="" target="_blank">
+  <a href="mailto:contact@adamjohannes.com?subject=Hi Johannes&cc=&bcc=" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
