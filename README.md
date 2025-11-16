@@ -1,7 +1,7 @@
 <ul>
   <li> 👋 Hey there! I'm Johannes.</li>
   <li> 👀 Passionate about automation, algorithms, data structures, low-level programming, and the magical realm where math meets computing.</li>
-  <li> 🌱 Currently immersed in the languages of Rust, C, Python, and Java to expand my coding horizons.</li>
+  <li> 🌱 Currently immersed in the languages of Rust, Go Python and Java to expand my coding horizons.</li>
   <li>️ 💞️ Open to collaborations on public repositories—let's build something awesome together!</li>
   <li>️ 🖥️ Proudly navigating the digital landscape with Linux as my daily driver.</li>
 </ul>
@@ -11,10 +11,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=white&style=for-the-badge" height="40" alt="cmake logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?logo=anaconda&logoColor=white&style=for-the-badge" height="40" alt="anaconda logo"  />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
 </div>
 
 ###
