@@ -20,14 +20,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazardous-sun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
