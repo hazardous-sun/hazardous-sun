@@ -1,7 +1,7 @@
 <div align="center">
   <h1>☀️</h1>
   <h3>Hey, I'm Johannes.</h3>
-  <p><strong>AI - Automation - Backend - DevOps - Quality</strong></p>
+  <p><strong>AI - Automation - Backend</strong></p>
 </div>
 
 ---
