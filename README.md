@@ -1,46 +1,52 @@
 <div align="center">
-  <h1>
-    ☀️
-  </h1>
+  <h1>☀️</h1>
+  <h3>Hey, I'm Johannes.</h3>
+  <p><strong>AI- Automation - Backend - DevOps - Quality</strong></p>
 </div>
 
-# 👋 Hey there! I'm Johannes.
+---
 
-<ul>
-  <li> 👀 Passionate about automation, algorithms, data structures, low-level programming, and the magical realm where math meets computing.</li>
-  <li>️ 🤝 Open to collaborations on public repositories—let's build something awesome together!</li>
-</ul>
+## 🙋‍♂️ About me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hazardous-sun&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=hazardous-sun&theme=onedark&column=1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+- I like building things that are practical, reliable, and not too mysterious to understand later.
+- Most of my projects live somewhere between scripts, small services, and tools that remove repetitive work.
+- I have been getting more into software architecture and how code maps to real world domains.
+- I am also interested in DevOps and the space where development, deployment, and operations meet.
 
-## 🤖 Technologies I'm familiar with
+---
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="40" alt="podman logo"  />
-</div>
+## 🎯 Favorite languages and tools
 
-## ⚡ Running on
+- 🔵 **Go** and 🦀 **Rust** for backend services and tools where performance and simplicity matter  
+- ☕ **Java** for more traditional backend work and structured projects  
+- 🌱 **Vue.js** for frontend when I need to build a UI  
+- 🐚 **Bash** and 🐍 **Python** for scripting, automation, and glue code  
 
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
+These are the stacks you are most likely to see across my repositories.
 
-## 📬 How to reach out to me
+---
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/adam-johannes-84a97b1ba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:contact@adamjohannes.com?subject=Hi Johannes&cc=&bcc=" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+## 🧪 What you will find here
+
+- Small and medium projects where I try out ideas in design and structure  
+- Experiments that might get refactored a few times as I learn more  
+- Utility code and tools that came out of solving my own problems  
+
+This is not a perfectly curated portfolio. It is more like a working bench.
+
+---
+
+## 📚 Things I am studying
+
+- "Domain Driven Design" by Eric Evans  
+- Concepts around modular design, bounded contexts, and clearer boundaries in code  
+- Better habits for testing and keeping projects healthy as they grow  
+
+This section will probably change as I move through books and ideas.
+
+---
+
+## 🛰️ Reach me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/adam-johannes-84a97b1ba/)
+- ✉️ [Email](mailto:contact@adamjohannes.com?subject=Hi%20Johannes)
