@@ -33,7 +33,6 @@
 ## ⚡ Running on
 
 <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white">
-<img src="https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white">
 
 ## 📬 How to reach out to me
 
