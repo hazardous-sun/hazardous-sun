@@ -8,9 +8,9 @@
 
 ## About me
 
-- I like building things that are practical, reliable, and not too mysterious to understand later.
-- Most of my projects live somewhere between scripts, small services, and tools that remove repetitive work.
-- I have been getting more into software architecture and how code maps to real world domains.
+- I like building things that are practical, reliable, and not too mysterious to understand later
+- Most of my projects live somewhere between scripts, small services, and tools that remove repetitive work
+- I have been getting more into software architecture and how code maps to real world domains
 
 ---
 
