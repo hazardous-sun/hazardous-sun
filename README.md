@@ -24,7 +24,7 @@
 
 ## Currently Reading
 
-- "Domain Driven Design" by Eric Evans (████████░░ 80%)
+- "Domain Driven Design" by Eric Evans (█████████░ 91%)
 
 ---
 
